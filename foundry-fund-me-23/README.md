@@ -64,3 +64,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+WE now need proper readme
+integration tests
+programatic version
+push to github
