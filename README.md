@@ -23,7 +23,3 @@ The project includes automated tests written using Foundry. Test cases ensure th
 - Users cannot withdraw funds.
 - Proper updates to the data structure for funders.
 - Contract can handle multiple funders.
-
-To run the tests:
-```bash
-forge test
