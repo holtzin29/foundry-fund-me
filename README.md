@@ -1,4 +1,4 @@
-# FundMe Project
+# FundMe Project and SimpleStorage/StorageFactory Projects
 
 ## Description
 FundMe is a smart contract-based decentralized crowdfunding platform. It allows users to fund the contract with Ether and supports withdrawal functionality for the owner. The project demonstrates Solidity programming, smart contract development, and testing using Foundry.
@@ -27,6 +27,9 @@ The project includes automated tests written using Foundry. Test cases ensure th
 - ## It also contains an SimpleStorage and Storage Factory outside ofthe foundry-fund-me.
 - What the Simple Storage does is simply store an list of favorite number by various and a way we can add more people and their favorite numbers.
 - The StorageFactory is a simple contract in which people can fund into the contract and also a function to get the version and it simply returns the number of the version.
+
+  ## Deployment:
+  SimpleStorage also has an simple Deploy script in which just has an function run to run the script 
 
 ## Libraries:
 -This repository uses three libraries:
