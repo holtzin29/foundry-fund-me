@@ -23,3 +23,17 @@ The project includes automated tests written using Foundry. Test cases ensure th
 - Users cannot withdraw funds.
 - Proper updates to the data structure for funders.
 - Contract can handle multiple funders.
+
+- ## It also contains an SimpleStorage and Storage Factory outside ofthe foundry-fund-me.
+- What the Simple Storage does is simply store an list of favorite number by various and a way we can add more people and their favorite numbers.
+- The StorageFactory is a simple contract in which people can fund into the contract and also a function to get the version and it simply returns the number of the version.
+
+## Libraries:
+-This repository uses three libraries:
+- Foundry-DevOps from Cyfrin
+- Chainlink-brownie-contracts from Chainlink
+- Forge-std from Foundry
+
+## Inspiration:
+
+This repo and projects are inspired in the Solidity 101 course from Cyfrin.
