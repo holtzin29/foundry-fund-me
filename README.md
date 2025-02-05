@@ -40,3 +40,6 @@ The project includes automated tests written using Foundry. Test cases ensure th
 ## Inspiration:
 
 This repo and projects are inspired in the Solidity 101 course from Cyfrin.
+
+## License:
+MIT License.
